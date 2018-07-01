@@ -7,8 +7,7 @@ Repozitář má několik částí:
 * [Arduino IDE projekt](badge)
 * [Schéma pro EAGLE](eagle)
 * [Hromadný upload firmware přes USBasp](upload)
-
-*Podrobnější dokumentaci k programování připravujeme*
+* [Programování krok za krokem](programming) - podrobná příručka, jak badge přeprogramovat pomocí Arduino IDE
 
 ## Jak badge vypadá
 

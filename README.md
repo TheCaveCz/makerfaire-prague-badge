@@ -9,6 +9,8 @@ Repozitář má několik částí:
 * [Hromadný upload firmware přes USBasp](upload)
 * [Programování krok za krokem](programming) - podrobná příručka, jak badge přeprogramovat pomocí Arduino IDE
 
+*Jsme hodně zvědaví, co se vám všechno s badgem podaří vymyslet. Nenechávejte si vaše prográmky jenom pro sebe, klidně je pošlete na info@thecave.cz, rádi je tu zveřejníme!*
+
 ## Jak badge vypadá
 
 ![The Device](badge.jpg)

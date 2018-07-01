@@ -53,18 +53,17 @@ Badge má ze spodní strany u propojovacího konektoru názvy pinů. Propojte pi
 * V Serial monitoru nastavte baud rate na `115200 baud`
 * Měli byste vidět výpis z badge. Pokud se tak nestane, zkontrolujte, že jste správně vybrali port popř. zkuste prohodit `TXD` a `RXI` signály (některé převodníky je mají zapojené obráceně)
 
-
 ![Hlavni menu](settings.png)
 ![Serial monitor](serial-monitor.png)
 ![Serial monitor](serial-monitor2.png)
 
-## Programování
+## Programování
 
 Pokud všechno proběhlo v pořádku, můžete začít programovat. Doporučuji vyjít z existujícího kódu a před změnami pořádně prostudovat, co jak funguje. Nový program pošlete do badge stisknutím tlačítka Upload (kulaté tlačítko, druhé vlevo nahoře). Arduino bude chvíli pracovat, pak vám oznámí Done uploading a tím máte hotovo.
 
 ![Upload](upload.png)
 
-## Závěrem
+## Závěrem
 
 Jsme hodně zvědaví, co se vám všechno s badgem podaří vymyslet. Nenechávejte si vaše prográmky jenom pro sebe, klidně je pošlete na info@thecave.cz, rádi je tu zveřejníme! Pokud by vám cokoliv nefungovalo, nebo si nechcete kupovat potřebnou výbavu, zastavte se za námi v [The Cave](https://thecave.cz/navsteva/) a rádi vám pomůžeme!
 

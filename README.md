@@ -14,3 +14,11 @@ Repozitář má několik částí:
 ## Jak badge vypadá
 
 ![The Device](badge.jpg)
+
+## Poděkování
+
+Výrobu badgů sponzorovalo [Seeed Studio](https://www.seeedstudio.com).
+
+Badges were sponsored by [Seeed Studio](https://www.seeedstudio.com).
+
+![Seeed Studio](https://statics3.seeedstudio.com/assets/img/common/logo_2018_horizontal.png)
